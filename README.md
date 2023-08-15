@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center"> Hello! I'm a passionate React/Next.js Developer with over 1 year of hands-on experience in the industry. My expertise lies in crafting dynamic and user-friendly web applications using cutting-edge technologies.</div>  
   
 
@@ -22,11 +15,8 @@
 
 <br/>  
 
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -89,28 +79,5 @@
 
 <br/>  
 
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sulash-Manandhar&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

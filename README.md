@@ -1,13 +1,111 @@
-<h1 align="center">Hi 👋, I'm Sulash Manandhar</h1>
-<h3 align="center">A passionate frontend developer from Nepal.</h3>
+<div align="center">
 
-- 👨‍💻 All of my projects are available at [www.sulashmanandhar@gmail.com](www.sulashmanandhar@gmail.com)
+# Hi, I'm Sulash Manandhar 👋
 
-- 📫 How to reach me **sulash.manandhar@gmail.com**
+### Senior Frontend Developer · React · Next.js · Vue · TypeScript
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<a href="https://sulash-manandhar.netlify.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=4%2B+years+shipping+production+frontends;Vue+2+%E2%86%92+Vue+3+migrations;Performance+%26+technical+SEO;Real-time%2C+data-heavy+interfaces" alt="Typing intro" />
+</a>
+
+<p>
+  <a href="https://sulash-manandhar.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/sulash-manandhar-64a255237"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sulash.manandhar@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+📍 Kathmandu, Nepal · 🌏 Open to remote · 🕒 UTC+5:45
+
+</div>
+
+---
+
+## 🧑‍💻 About me
+
+I build responsive, high-performance web and mobile applications, and I specialise in the unglamorous work that makes codebases last: **legacy migrations, TypeScript adoption, component architecture, and performance tuning.**
+
+- 🔭 Currently the **solo frontend lead at [JoBins](https://jobins.jp)** (Japan, remote), where I migrated a production app from Vue 2 to Vue 3
+- 🛰️ Previously led frontend architecture at **Diagonal Technologies** for real-time vehicle tracking, mobile, and SEO projects
+- 🌱 Exploring the **TanStack ecosystem** — Start, Router, Query, and Table
+- 🤝 Available for **contract and freelance frontend work**, and open to full-time conversations
+- 📫 Reach me at **sulash.manandhar@gmail.com**
+
+---
+
+## 🚀 Featured work
+
+| Project | What I did | Stack |
+| --- | --- | --- |
+| **[JoBins](https://sulash-manandhar.netlify.app/work/jobins-vue3-migration)** | Migrated 100% of components from Vue 2 Options API to Vue 3 Composition API as the only frontend engineer. Added TypeScript + ESLint, built a typed component library, and cut bundle size with tree shaking and code splitting. | Vue 3 · TypeScript |
+| **[Routecontrol](https://sulash-manandhar.netlify.app/work/routecontrol)** | Led the frontend architecture for a real-time vehicle-tracking platform with live GPS and route optimisation. | React · Next.js · Google Maps |
+| **[Listinfo](https://sulash-manandhar.netlify.app/work/listinfo)** | Built a complete ticket-management mobile app solo, with NFC check-ins, offline support, and push notifications. | React Native · Firebase · NFC |
+| **[Gastromatic](https://sulash-manandhar.netlify.app/work/gastromatic-seo)** | Rebuilt client sites around server-side rendering and structured SEO to improve organic search visibility. | Next.js · SSR · SEO |
+
+👉 Full case studies at **[sulash-manandhar.netlify.app/work](https://sulash-manandhar.netlify.app/work)**
+
+---
+
+## 🛠️ Tech stack
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css,tailwind" alt="Frontend stack" />
+</p>
+
+**Mobile**
+
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+</p>
+
+**TanStack**
+
+<p>
+  <img src="https://img.shields.io/badge/TanStack_Start-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Start" />
+  <img src="https://img.shields.io/badge/TanStack_Router-FF4154?style=for-the-badge&logo=reactrouter&logoColor=white" alt="TanStack Router" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/TanStack_Table-FF4154?style=for-the-badge&logo=reacttable&logoColor=white" alt="TanStack Table" />
+</p>
+
+**Backend & APIs**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,graphql,firebase" alt="Backend stack" />
+</p>
+
+**Databases & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,docker,git,gitlab,postman,linux,figma" alt="Tools" />
+</p>
+
+---
+
+## 💡 What I'm good at
+
+- **Legacy migrations** — Vue 2 → Vue 3 without a rewrite or a feature freeze
+- **Frontend architecture** — structures in React/Next.js (12–14) that the next features fit into
+- **Performance** — tree shaking, code splitting, re-render audits, memoisation
+- **Technical SEO** — SSR and structured metadata that make content crawlable
+- **Real-time UIs** — live maps and dashboards over WebSockets and continuous feeds
+- **Design systems** — variant-driven components behind strongly typed APIs
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sulash-Manandhar&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sulash-Manandhar&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+</div>
+
+---
+
+<div align="center">
+
+**Have a Vue migration, a slow React app, or a site nobody can find?**
+[Let's talk →](https://sulash-manandhar.netlify.app/#contact)
+
+</div>
